@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Mahizhavan
 
-<!--
-**mahizhavananbazhagan-hub/mahizhavananbazhagan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech Student at VIT
 
-Here are some ideas to get you started:
+🌱 Currently learning React, Python, and DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+
+📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahizhavananbazhagan-hub&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahizhavananbazhagan-hub&layout=compact)
+
+📫 Connect
+- LinkedIn
