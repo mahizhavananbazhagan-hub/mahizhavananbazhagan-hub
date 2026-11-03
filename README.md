@@ -8,6 +8,9 @@
 - HTML
 - CSS
 - JavaScript
+- React
+- MongoDB
+- Node.js
 - Python
 - Git
 
